@@ -5,7 +5,7 @@ This is Demo scripted with GaS.
 Please read index.js about functions.
 # Install
 Use the GaS Web Editer to Use.
-#　　SetUp
+# SetUp
 Clone this repo, and change your current directry, and Use the Editer.
 # Test
 To test the project, Use the Editer.
